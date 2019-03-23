@@ -106,7 +106,7 @@ public class ShortestPath {
                     minHeap.add(newRoute);
                 }
             }
-            visitedNodes.add(neighbor); // Add to visited node
+            visitedNodes.add(neighbor); // Add to visited node to the set
         }
 
         System.out.println("Distance between " + source + " and " + destination + " = " + resultRoute.getDistance() + " miles");
