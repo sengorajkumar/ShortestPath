@@ -1,6 +1,8 @@
 # Shortest Path Graph Algorithms
 
-Implementation of Dijkstra's algorithm for the shotest flights between airports use case
+Implementation of Dijkstra's algorithm for the shotest flights between airports.
+
+The data of all airports and flights / routes between airports are taken from https://openflights.org/data.html
 
 ## Getting Started
 
